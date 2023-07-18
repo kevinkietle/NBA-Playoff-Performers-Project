@@ -48,21 +48,21 @@ In looking at positions, it seems perimeter players (PG, SG, SF) have the best d
 
 ![position ws48 diff table](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/09056d42-e085-4f3a-bd82-6dcbc2ec89f6)
 
-![position ws48 diff charts](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/7d9cab61-aee3-4846-a540-5261a1fb9ad8)
+![position ws48 diff charts](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/f2d8ac82-cf02-49e8-941d-dbb2cee5ed87)
 
-![positions and usage](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/a0e5300b-6470-4b86-9420-d138aafe4700)
+![positions and usage](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/b5180e25-3887-47ed-99c2-f13e900a6676)
 
 In looking at age, there is a slight positive trend on the dataframe with a 19 MPG threshold, suggesting that older players draw on their experience to elevate their games in the postseason. This or their regular season production is depressed a bit due to lack of urgency.
 
-![age and diff combined](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/de172a0d-8cde-49b2-8ad6-c238ba131d6c)
+![age and diff combined](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/e0aa478d-9a14-4cab-bb19-a68978e9e433)
 
 When looking at the dataframe with a 30 MPG threshold, however, this trend is not present. The best players are extremely effective in the regular season even if they are older.
 
-![age and diff best players](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/940dbec5-7bb0-4415-95e8-a8eee5e1a2e7)
+![age and diff best players](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/c5b4ec15-521c-46ef-91a7-01bd48eebe5b)
 
 The point of older age playing better in the playoffs led me to explore the idea of urgency/resting. The bottom chart supports the theory older players save themselves more in the regular season as there is a slight negative correlation between games played and WS/48 difference.
 
-![games played and diff](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/6c11c9f8-24ee-4202-a0e0-a7b194233f49)
+![games played and diff](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/daca5834-beed-4aec-a36e-08a52b124dcd)
 
 Regressions
 -----------
