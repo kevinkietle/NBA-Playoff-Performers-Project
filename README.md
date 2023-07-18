@@ -46,7 +46,7 @@ I made a function that gave me the top WS/48 difference values for each year to 
 
 In looking at positions, it seems perimeter players (PG, SG, SF) have the best differentials and the largest standard deviations. They have more opportunity to control the game (higher usage percentage). T tests between the position groups support this statement.
 
-![position ws48 diff table](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/cd354879-3ad0-4c21-a2f9-e5a49f497b91)
+![position ws48 diff table](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/09056d42-e085-4f3a-bd82-6dcbc2ec89f6)
 
 ![position ws48 diff charts](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/7d9cab61-aee3-4846-a540-5261a1fb9ad8)
 
