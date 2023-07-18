@@ -84,8 +84,8 @@ From the clustering analysis of the top 10 percentile, a few trend groups stood 
 
 From the analysis of the bottom 10 percentile, the trend groups that exist are big men who can't space the floor (guys who are usually really good too) and offensive value adds who are thought of as defensive liabilities. This is essentially the inverse of groups from the top 10 percentile. Guys like Jarrett Allen, Domantas Sabonis, CJ McCollum, and Kemba Walker comprise the two groups I'm talking about.
 
-
-
+&nbsp;
+&nbsp;
 
 Hope you enjoyed reading through this project!
 
