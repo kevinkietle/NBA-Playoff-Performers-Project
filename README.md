@@ -46,23 +46,23 @@ I made a function that gave me the top WS/48 difference values for each year to 
 
 In looking at positions, it seems perimeter players (PG, SG, SF) have the best differentials and the largest standard deviations. They have more opportunity to control the game (higher usage percentage). T tests between the position groups support this statement.
 
-[position ws48 diff table]
+![position ws48 diff table](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/cd354879-3ad0-4c21-a2f9-e5a49f497b91)
 
-[position ws48 diff charts]
+![position ws48 diff charts](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/7d9cab61-aee3-4846-a540-5261a1fb9ad8)
 
-[positions and usage]
+![positions and usage](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/a0e5300b-6470-4b86-9420-d138aafe4700)
 
 In looking at age, there is a slight positive trend on the dataframe with a 19 MPG threshold, suggesting that older players draw on their experience to elevate their games in the postseason. This or their regular season production is depressed a bit due to lack of urgency.
 
-[age and diff combined]
+![age and diff combined](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/de172a0d-8cde-49b2-8ad6-c238ba131d6c)
 
 When looking at the dataframe with a 30 MPG threshold, however, this trend is not present. The best players are extremely effective in the regular season even if they are older.
 
-[age and diff best players]
+![age and diff best players](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/940dbec5-7bb0-4415-95e8-a8eee5e1a2e7)
 
 The point of older age playing better in the playoffs led me to explore the idea of urgency/resting. The bottom chart supports the theory older players save themselves more in the regular season as there is a slight negative correlation between games played and WS/48 difference.
 
-[games played and diff]
+![games played and diff](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/assets/82183590/6c11c9f8-24ee-4202-a0e0-a7b194233f49)
 
 Regressions
 -----------
@@ -83,6 +83,9 @@ I ran a principal components analysis to shrink the dimensions of the data down 
 From the clustering analysis of the top 10 percentile, a few trend groups stood out: floor spacing big men with paint protection and wings with good size/defense. Guys like Kristaps Porzingis, Marc Gasol, Anthony Edwards, and Caleb Martin comprise the two groups I'm talking about. Overall, the main theme is versatility. If your big clogs up the floor or your offensive guard can't defend switches you get your weaknesses exploited.
 
 From the analysis of the bottom 10 percentile, the trend groups that exist are big men who can't space the floor (guys who are usually really good too) and offensive value adds who are thought of as defensive liabilities. This is essentially the inverse of groups from the top 10 percentile. Guys like Jarrett Allen, Domantas Sabonis, CJ McCollum, and Kemba Walker comprise the two groups I'm talking about.
+
+
+
 
 Hope you enjoyed reading through this project!
 
