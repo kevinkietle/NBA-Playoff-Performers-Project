@@ -18,7 +18,7 @@ This project is broken down into four parts, in which you can find the links to 
 
 -   [4\. Clustering](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/blob/main/4.%20NBA%20Playoff%20Performers%20pt.%204.ipynb)
 
-Main takeaways:
+**Main takeaways:**
 
 -   The majority of players actually see a decrease in WS/48 from regular to postseason as the game becomes more serious and teams hone in on one opponent.
 
@@ -30,7 +30,8 @@ Main takeaways:
 
 -   In identifying clusters within the top 10 percentile of players who elevated their games, as well as the clusters within the bottom 10 percentile of players, versatility seems to be the trait to look for in your roster. A few clusters present in the top 10 percentile included big men who could shoot and wings who have good size and can defend. A few clusters present in the bottom 10 percentile included effective big men without shooting range and perimeter players known as offensive players who are defensive liabilities. These clusters make sense in the context of the predictors mentioned above. Big men who don't shoot jumpers have higher TS% and REB%, and offensive minded players have higher AST % and lower TOV %, all of which correlated to lower WS/48 difference.
 
-### Data Scraping and Cleaning
+Data Scraping and Cleaning
+-----------
 
 Using Beautiful Soup, I scraped the advanced stats page from Basketball Reference for both regular season and playoffs for the years 2019-2023. I merged all these dataframes on the player name and year.
 
@@ -38,7 +39,8 @@ For cleaning, I consolidated extra rows for players that played on multiple team
 
 I made a main dataframe called 'combine' that had all players that played at least 19 minutes per game. Then I made another dataframe called 'best_players' that had all players that played at least 30 minutes per game.
 
-### EDA
+EDA
+-----------
 
 I made a function that gave me the top WS/48 difference values for each year to validate with the eye test. From the most recent year 2023, it seems to be solid with guys like Anthony Edwards, Devin Booker, Jamal Murray, and Caleb Martin making the list.
 
