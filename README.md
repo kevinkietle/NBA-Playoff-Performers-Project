@@ -6,7 +6,7 @@ In this project, I had the goal of researching players that have elevated or shr
 Summary
 -------
 
-Here is a visualization I put together in Tableau as a one pager summarizing the results.
+[Here is a visualization I put together in Tableau](https://github.com/kevinkietle/NBA-Playoff-Performers-Project/blob/main/0.%20visual%20summary.md) as a one pager summarizing the results.
 
 This project is broken down into four parts, in which you can find the links to below for full code and project. The rest of this readme will summarize key activities and findings from each section.
 
